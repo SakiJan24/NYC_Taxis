@@ -1,0 +1,6 @@
+desce,payment_type_id
+Credit Card,1
+Cash,2
+No Charge,3
+Dispute,4
+Unknown,5
